@@ -1,0 +1,989 @@
+[
+    {
+        "user_id": "5de0c96d3a6076cb35298fee1bfab00f683355018bdbcae3cb9276115e48cc65",
+        "Style_feature": [
+            "EmptyBlockCheck",
+            "ParameterNameCheck",
+            "MultipleVariableDeclarationsCheck",
+            "NeedBracesCheck",
+            "LeftCurlyCheck",
+            "MissingSwitchDefaultCheck",
+            "LocalVariableNameCheck",
+            "RightCurly",
+            "WhitespaceAroundCheck",
+            "OneStatementPerLineCheck",
+            "EmptyLineSeparatorCheck"
+        ]
+    },
+    {
+        "user_id": "1326cf4e0acaa88601acfbead6da6f8cc1228dbb511dcbc199ca86eaf632ab01",
+        "Style_feature": [
+            "OneTopLevelClassCheck",
+            "MethodNameCheck",
+            "MemberNameCheck",
+            "LineLengthCheck",
+            "LeftCurlyCheck",
+            "MultipleVariableDeclarationsCheck",
+            "NeedBracesCheck",
+            "MissingSwitchDefaultCheck",
+            "RightCurly",
+            "LocalVariableNameCheck",
+            "WhitespaceAroundCheck",
+            "AvoidStarImportCheck",
+            "OneStatementPerLineCheck",
+            "EmptyLineSeparatorCheck",
+            "OperatorWrapCheck"
+        ]
+    },
+    {
+        "user_id": "2d441faf2e6adf357a6738a14a373dcfc7b103e710692215a698b5f39f775ebb",
+        "Style_feature": [
+            "EmptyBlockCheck",
+            "OneTopLevelClassCheck",
+            "LineLengthCheck",
+            "MultipleVariableDeclarationsCheck",
+            "MissingSwitchDefaultCheck",
+            "NeedBracesCheck",
+            "LeftCurlyCheck",
+            "RightCurly",
+            "LocalVariableNameCheck",
+            "WhitespaceAroundCheck",
+            "EmptyLineSeparatorCheck"
+        ]
+    },
+    {
+        "user_id": "da3367432d375c916f15c51cb3398f916f368ef396e755a134c43929f5d9af58",
+        "Style_feature": [
+            "ModifierOrderCheck",
+            "MethodNameCheck",
+            "LineLengthCheck",
+            "LeftCurlyCheck",
+            "NeedBracesCheck",
+            "MultipleVariableDeclarationsCheck",
+            "MissingSwitchDefaultCheck",
+            "RightCurly",
+            "WhitespaceAroundCheck",
+            "OneStatementPerLineCheck",
+            "EmptyLineSeparatorCheck"
+        ]
+    },
+    {
+        "user_id": "000c348bae9d4656b7f18121391ad3d8c665fde791e3128bcdb8ba48ec3f2c5d",
+        "Style_feature": [
+            "LineLengthCheck",
+            "LeftCurlyCheck",
+            "NeedBracesCheck",
+            "MultipleVariableDeclarationsCheck",
+            "MissingSwitchDefaultCheck",
+            "RightCurly",
+            "LocalVariableNameCheck",
+            "WhitespaceAroundCheck",
+            "OneStatementPerLineCheck",
+            "EmptyLineSeparatorCheck"
+        ]
+    },
+    {
+        "user_id": "bbe62134d8e632e5696b1487d0d580f52aba70b265d6e27344dc12fa606d3bf8",
+        "Style_feature": [
+            "EmptyBlockCheck",
+            "OneTopLevelClassCheck",
+            "LineLengthCheck",
+            "LeftCurlyCheck",
+            "MultipleVariableDeclarationsCheck",
+            "NeedBracesCheck",
+            "MissingSwitchDefaultCheck",
+            "RightCurly",
+            "LocalVariableNameCheck",
+            "WhitespaceAroundCheck",
+            "AvoidStarImportCheck",
+            "OneStatementPerLineCheck",
+            "EmptyLineSeparatorCheck",
+            "OperatorWrapCheck"
+        ]
+    },
+    {
+        "user_id": "374d6b9f8afd9092d8547628a2ca157372584610dd08172bf03ff43a838b268f",
+        "Style_feature": [
+            "ParameterNameCheck",
+            "OneTopLevelClassCheck",
+            "LineLengthCheck",
+            "LeftCurlyCheck",
+            "MissingSwitchDefaultCheck",
+            "NeedBracesCheck",
+            "MultipleVariableDeclarationsCheck",
+            "RightCurly",
+            "LocalVariableNameCheck",
+            "WhitespaceAroundCheck",
+            "AvoidStarImportCheck",
+            "EmptyLineSeparatorCheck",
+            "OperatorWrapCheck"
+        ]
+    },
+    {
+        "user_id": "f767ecb1171ee69175a5f4cf2a73c9f7f8425966e3753f17f4070d6623e6226c",
+        "Style_feature": [
+            "OneTopLevelClassCheck",
+            "LineLengthCheck",
+            "MultipleVariableDeclarationsCheck",
+            "LeftCurlyCheck",
+            "NeedBracesCheck",
+            "RightCurly",
+            "LocalVariableNameCheck",
+            "WhitespaceAroundCheck",
+            "AvoidStarImportCheck",
+            "OneStatementPerLineCheck",
+            "EmptyLineSeparatorCheck",
+            "OperatorWrapCheck"
+        ]
+    },
+    {
+        "user_id": "39e6024348a445c48fa8b570e95c5eb812f3c72470ee105da7da429514e2fbeb",
+        "Style_feature": [
+            "OneTopLevelClassCheck",
+            "MethodNameCheck",
+            "MemberNameCheck",
+            "LineLengthCheck",
+            "LeftCurlyCheck",
+            "MultipleVariableDeclarationsCheck",
+            "NeedBracesCheck",
+            "MissingSwitchDefaultCheck",
+            "TypeNameCheck",
+            "RightCurly",
+            "LocalVariableNameCheck",
+            "WhitespaceAroundCheck",
+            "AvoidStarImportCheck",
+            "OneStatementPerLineCheck",
+            "EmptyLineSeparatorCheck"
+        ]
+    },
+    {
+        "user_id": "f4a4844223db897591c4c582916e6daa7943aedc5b8358890516391ce3969773",
+        "Style_feature": [
+            "ParameterNameCheck",
+            "OneTopLevelClassCheck",
+            "MethodNameCheck",
+            "LineLengthCheck",
+            "LeftCurlyCheck",
+            "NeedBracesCheck",
+            "MultipleVariableDeclarationsCheck",
+            "MissingSwitchDefaultCheck",
+            "LocalVariableNameCheck",
+            "RightCurly",
+            "WhitespaceAroundCheck",
+            "AvoidStarImportCheck",
+            "EmptyLineSeparatorCheck"
+        ]
+    },
+    {
+        "user_id": "5a9b41f7a15779748b6df752f02746249a5be474d745a1239822d762417aa6cb",
+        "Style_feature": [
+            "ParameterNameCheck",
+            "OneTopLevelClassCheck",
+            "LineLengthCheck",
+            "LeftCurlyCheck",
+            "NeedBracesCheck",
+            "MultipleVariableDeclarationsCheck",
+            "MissingSwitchDefaultCheck",
+            "RightCurly",
+            "LocalVariableNameCheck",
+            "WhitespaceAroundCheck",
+            "AvoidStarImportCheck",
+            "OneStatementPerLineCheck",
+            "EmptyLineSeparatorCheck",
+            "OperatorWrapCheck"
+        ]
+    },
+    {
+        "user_id": "321c5603d7cd4a61e894f48a05993b4eb5613b6d7b141d14e653532588bf9033",
+        "Style_feature": [
+            "ParameterNameCheck",
+            "OneTopLevelClassCheck",
+            "MethodNameCheck",
+            "LineLengthCheck",
+            "MultipleVariableDeclarationsCheck",
+            "LeftCurlyCheck",
+            "MissingSwitchDefaultCheck",
+            "NeedBracesCheck",
+            "RightCurly",
+            "LocalVariableNameCheck",
+            "WhitespaceAroundCheck",
+            "AvoidStarImportCheck",
+            "OneStatementPerLineCheck",
+            "EmptyLineSeparatorCheck",
+            "OperatorWrapCheck"
+        ]
+    },
+    {
+        "user_id": "f6247cdd433c48c0f332c11ec7bcc3d278855fd1f5773f9f3e4c834138e7e00c",
+        "Style_feature": [
+            "EmptyBlockCheck",
+            "OneTopLevelClassCheck",
+            "LineLengthCheck",
+            "LeftCurlyCheck",
+            "MultipleVariableDeclarationsCheck",
+            "NeedBracesCheck",
+            "RightCurly",
+            "LocalVariableNameCheck",
+            "WhitespaceAroundCheck",
+            "AvoidStarImportCheck",
+            "OneStatementPerLineCheck",
+            "EmptyLineSeparatorCheck",
+            "OperatorWrapCheck"
+        ]
+    },
+    {
+        "user_id": "ccc3b36e00523a38bc623bdc5d70b7ba6c805aabe5f984ef060668e16c6ec908",
+        "Style_feature": [
+            "EmptyBlockCheck",
+            "OneTopLevelClassCheck",
+            "LineLengthCheck",
+            "LeftCurlyCheck",
+            "MissingSwitchDefaultCheck",
+            "MultipleVariableDeclarationsCheck",
+            "NeedBracesCheck",
+            "RightCurly",
+            "LocalVariableNameCheck",
+            "WhitespaceAroundCheck",
+            "AvoidStarImportCheck",
+            "OneStatementPerLineCheck",
+            "EmptyLineSeparatorCheck",
+            "OperatorWrapCheck"
+        ]
+    },
+    {
+        "user_id": "b64ae307174a18985e25083f352aea7a967babd80e9865ec39d4dfd6136f911e",
+        "Style_feature": [
+            "EmptyBlockCheck",
+            "ParameterNameCheck",
+            "OneTopLevelClassCheck",
+            "LineLengthCheck",
+            "LeftCurlyCheck",
+            "NeedBracesCheck",
+            "MultipleVariableDeclarationsCheck",
+            "MissingSwitchDefaultCheck",
+            "RightCurly",
+            "LocalVariableNameCheck",
+            "WhitespaceAroundCheck",
+            "AvoidStarImportCheck",
+            "OneStatementPerLineCheck",
+            "EmptyLineSeparatorCheck",
+            "OperatorWrapCheck"
+        ]
+    },
+    {
+        "user_id": "8b6656b034e0bef074c88f62bc8aeb54ef7b83527f5d835e5d2cb571dddb6a9d",
+        "Style_feature": [
+            "EmptyBlockCheck",
+            "OneTopLevelClassCheck",
+            "LineLengthCheck",
+            "MultipleVariableDeclarationsCheck",
+            "LeftCurlyCheck",
+            "NeedBracesCheck",
+            "RightCurly",
+            "LocalVariableNameCheck",
+            "WhitespaceAroundCheck",
+            "AvoidStarImportCheck",
+            "OneStatementPerLineCheck",
+            "EmptyLineSeparatorCheck",
+            "OperatorWrapCheck"
+        ]
+    },
+    {
+        "user_id": "186dae79ddc234d477d4143aa79fccba794bf03414f06a0b6fe4bb81a5ff79ca",
+        "Style_feature": [
+            "EmptyBlockCheck",
+            "OneTopLevelClassCheck",
+            "LineLengthCheck",
+            "LeftCurlyCheck",
+            "NeedBracesCheck",
+            "MultipleVariableDeclarationsCheck",
+            "FallThroughCheck",
+            "LocalVariableNameCheck",
+            "RightCurly",
+            "WhitespaceAroundCheck",
+            "AvoidStarImportCheck",
+            "OneStatementPerLineCheck",
+            "EmptyLineSeparatorCheck",
+            "OperatorWrapCheck"
+        ]
+    },
+    {
+        "user_id": "42ac077bfc61fbbc18f2195b73cc7fec2c8a52d17d89a5f21d16993ab5a47957",
+        "Style_feature": [
+            "ParameterNameCheck",
+            "OneTopLevelClassCheck",
+            "LineLengthCheck",
+            "LeftCurlyCheck",
+            "NeedBracesCheck",
+            "MultipleVariableDeclarationsCheck",
+            "MissingSwitchDefaultCheck",
+            "FallThroughCheck",
+            "RightCurly",
+            "LocalVariableNameCheck",
+            "WhitespaceAroundCheck",
+            "AvoidStarImportCheck",
+            "OneStatementPerLineCheck",
+            "EmptyLineSeparatorCheck"
+        ]
+    },
+    {
+        "user_id": "32870c1c458155c9f47081b3d562279dea35f6ec9b622cf6df361811cd7c8097",
+        "Style_feature": [
+            "EmptyBlockCheck",
+            "OneTopLevelClassCheck",
+            "LineLengthCheck",
+            "LeftCurlyCheck",
+            "NeedBracesCheck",
+            "MultipleVariableDeclarationsCheck",
+            "MissingSwitchDefaultCheck",
+            "FallThroughCheck",
+            "LocalVariableNameCheck",
+            "RightCurly",
+            "WhitespaceAroundCheck",
+            "AvoidStarImportCheck",
+            "OneStatementPerLineCheck",
+            "EmptyLineSeparatorCheck",
+            "OperatorWrapCheck"
+        ]
+    },
+    {
+        "user_id": "ec344ffcd7ad65a7a589c620802b31fc2375916baf599659c6f32dfdd5f19d26",
+        "Style_feature": [
+            "EmptyBlockCheck",
+            "OneTopLevelClassCheck",
+            "LineLengthCheck",
+            "LeftCurlyCheck",
+            "NeedBracesCheck",
+            "MultipleVariableDeclarationsCheck",
+            "LocalVariableNameCheck",
+            "RightCurly",
+            "WhitespaceAroundCheck",
+            "AvoidStarImportCheck",
+            "OneStatementPerLineCheck",
+            "EmptyLineSeparatorCheck",
+            "OperatorWrapCheck"
+        ]
+    },
+    {
+        "user_id": "c5f9c3a6dc08b00dc7a6ea7a2719eaeef7b49b9ef23f16b499e14bd20a02b7cd",
+        "Style_feature": [
+            "EmptyBlockCheck",
+            "ParameterNameCheck",
+            "OneTopLevelClassCheck",
+            "LineLengthCheck",
+            "MultipleVariableDeclarationsCheck",
+            "MissingSwitchDefaultCheck",
+            "NeedBracesCheck",
+            "LeftCurlyCheck",
+            "RightCurly",
+            "LocalVariableNameCheck",
+            "WhitespaceAroundCheck",
+            "AvoidStarImportCheck",
+            "OneStatementPerLineCheck",
+            "EmptyLineSeparatorCheck",
+            "OperatorWrapCheck"
+        ]
+    },
+    {
+        "user_id": "09c2df85962fee502eb10ac7f3ad21c594269e5c8818c4d29947638d0c08042b",
+        "Style_feature": [
+            "EmptyBlockCheck",
+            "OneTopLevelClassCheck",
+            "MemberNameCheck",
+            "LineLengthCheck",
+            "MultipleVariableDeclarationsCheck",
+            "NeedBracesCheck",
+            "MissingSwitchDefaultCheck",
+            "LeftCurlyCheck",
+            "LocalVariableNameCheck",
+            "RightCurly",
+            "WhitespaceAroundCheck",
+            "AvoidStarImportCheck",
+            "EmptyLineSeparatorCheck",
+            "OperatorWrapCheck"
+        ]
+    },
+    {
+        "user_id": "dbbe4b9118c12c948877cc366711d909d4ce4c0a86ff3e78ff36f024a4e69703",
+        "Style_feature": [
+            "EmptyBlockCheck",
+            "OneTopLevelClassCheck",
+            "LineLengthCheck",
+            "MultipleVariableDeclarationsCheck",
+            "NeedBracesCheck",
+            "MissingSwitchDefaultCheck",
+            "LeftCurlyCheck",
+            "RightCurly",
+            "LocalVariableNameCheck",
+            "WhitespaceAroundCheck",
+            "AvoidStarImportCheck",
+            "OneStatementPerLineCheck",
+            "EmptyLineSeparatorCheck",
+            "OperatorWrapCheck"
+        ]
+    },
+    {
+        "user_id": "a6c9a9f379790af0f5ccef85c9889f0772886ac82902ec2ae78804fb9f28f375",
+        "Style_feature": [
+            "EmptyBlockCheck",
+            "OneTopLevelClassCheck",
+            "LineLengthCheck",
+            "MultipleVariableDeclarationsCheck",
+            "LeftCurlyCheck",
+            "NeedBracesCheck",
+            "RightCurly",
+            "LocalVariableNameCheck",
+            "WhitespaceAroundCheck",
+            "AvoidStarImportCheck",
+            "OneStatementPerLineCheck",
+            "EmptyLineSeparatorCheck",
+            "OperatorWrapCheck"
+        ]
+    },
+    {
+        "user_id": "bbb56ba7397e9ee8f497fbe90616abaea4b05820a628ae8728285d559fcdc7e9",
+        "Style_feature": [
+            "EmptyBlockCheck",
+            "OneTopLevelClassCheck",
+            "LineLengthCheck",
+            "MultipleVariableDeclarationsCheck",
+            "NeedBracesCheck",
+            "MissingSwitchDefaultCheck",
+            "LeftCurlyCheck",
+            "FallThroughCheck",
+            "LocalVariableNameCheck",
+            "RightCurly",
+            "WhitespaceAroundCheck",
+            "AvoidStarImportCheck",
+            "OneStatementPerLineCheck",
+            "EmptyLineSeparatorCheck",
+            "OperatorWrapCheck"
+        ]
+    },
+    {
+        "user_id": "2b7c39b9925f30e7b54807700a280a7c8b2c62d28be27bf082b544aed66d9b27",
+        "Style_feature": [
+            "OneTopLevelClassCheck",
+            "MethodNameCheck",
+            "MemberNameCheck",
+            "LineLengthCheck",
+            "MultipleVariableDeclarationsCheck",
+            "MissingSwitchDefaultCheck",
+            "LeftCurlyCheck",
+            "NeedBracesCheck",
+            "TypeNameCheck",
+            "RightCurly",
+            "LocalVariableNameCheck",
+            "WhitespaceAroundCheck",
+            "AvoidStarImportCheck",
+            "OneStatementPerLineCheck",
+            "EmptyLineSeparatorCheck",
+            "OperatorWrapCheck"
+        ]
+    },
+    {
+        "user_id": "a377e7400bfe0b5dc494bda185060243f3f7e06039d6868b5e4d4ed2eaf3cd45",
+        "Style_feature": [
+            "EmptyBlockCheck",
+            "OneTopLevelClassCheck",
+            "MethodNameCheck",
+            "LineLengthCheck",
+            "LeftCurlyCheck",
+            "NeedBracesCheck",
+            "MultipleVariableDeclarationsCheck",
+            "FallThroughCheck",
+            "RightCurly",
+            "LocalVariableNameCheck",
+            "WhitespaceAroundCheck",
+            "AvoidStarImportCheck",
+            "OneStatementPerLineCheck",
+            "EmptyLineSeparatorCheck",
+            "OperatorWrapCheck"
+        ]
+    },
+    {
+        "user_id": "552c867aa5cecf90fdf6d6addf5179800fee3e395f10e8ce9a04d32e81cb2655",
+        "Style_feature": [
+            "OneTopLevelClassCheck",
+            "MethodNameCheck",
+            "MemberNameCheck",
+            "LineLengthCheck",
+            "LeftCurlyCheck",
+            "NeedBracesCheck",
+            "MultipleVariableDeclarationsCheck",
+            "MissingSwitchDefaultCheck",
+            "TypeNameCheck",
+            "RightCurly",
+            "LocalVariableNameCheck",
+            "WhitespaceAroundCheck",
+            "AvoidStarImportCheck",
+            "OneStatementPerLineCheck",
+            "EmptyLineSeparatorCheck",
+            "OperatorWrapCheck"
+        ]
+    },
+    {
+        "user_id": "388649bf30541e7c6dd61daec8f849f12ea6d370298616a6a6e86505a2ace909",
+        "Style_feature": [
+            "OneTopLevelClassCheck",
+            "LineLengthCheck",
+            "LeftCurlyCheck",
+            "NeedBracesCheck",
+            "MissingSwitchDefaultCheck",
+            "MultipleVariableDeclarationsCheck",
+            "RightCurly",
+            "LocalVariableNameCheck",
+            "WhitespaceAroundCheck",
+            "AvoidStarImportCheck",
+            "OneStatementPerLineCheck",
+            "EmptyLineSeparatorCheck",
+            "OperatorWrapCheck"
+        ]
+    },
+    {
+        "user_id": "bb87ab6e077bbba90d48e7f7b8dde30d2f54faf17abe464f6ab0fc6060281e59",
+        "Style_feature": [
+            "ParameterNameCheck",
+            "SeparatorWrap",
+            "OneTopLevelClassCheck",
+            "LineLengthCheck",
+            "LeftCurlyCheck",
+            "NeedBracesCheck",
+            "MissingSwitchDefaultCheck",
+            "MultipleVariableDeclarationsCheck",
+            "RightCurly",
+            "LocalVariableNameCheck",
+            "WhitespaceAroundCheck",
+            "AvoidStarImportCheck",
+            "EmptyLineSeparatorCheck",
+            "OperatorWrapCheck"
+        ]
+    },
+    {
+        "user_id": "66442dac15c3df32bda1f70b4fc0b9244d9fbecd6e6316e4dd634443ca1ccd43",
+        "Style_feature": [
+            "ParameterNameCheck",
+            "OneTopLevelClassCheck",
+            "MethodNameCheck",
+            "LineLengthCheck",
+            "LeftCurlyCheck",
+            "NeedBracesCheck",
+            "MultipleVariableDeclarationsCheck",
+            "MissingSwitchDefaultCheck",
+            "RightCurly",
+            "LocalVariableNameCheck",
+            "WhitespaceAroundCheck",
+            "AvoidStarImportCheck",
+            "OneStatementPerLineCheck",
+            "EmptyLineSeparatorCheck",
+            "OperatorWrapCheck"
+        ]
+    },
+    {
+        "user_id": "b5e1298da15745e843bf8cdb0c0fffe40b4e2fda1e135b4b0d4c6fff9fd389fe",
+        "Style_feature": [
+            "EmptyBlockCheck",
+            "OneTopLevelClassCheck",
+            "LineLengthCheck",
+            "MultipleVariableDeclarationsCheck",
+            "LeftCurlyCheck",
+            "MissingSwitchDefaultCheck",
+            "NeedBracesCheck",
+            "RightCurly",
+            "LocalVariableNameCheck",
+            "WhitespaceAroundCheck",
+            "AvoidStarImportCheck",
+            "OneStatementPerLineCheck",
+            "EmptyLineSeparatorCheck",
+            "OperatorWrapCheck"
+        ]
+    },
+    {
+        "user_id": "a5227de4dfec818b5117c8de7b2bca468a18089e00b96d7b9093342b70cb1bb4",
+        "Style_feature": [
+            "EmptyBlockCheck",
+            "OneTopLevelClassCheck",
+            "LineLengthCheck",
+            "LeftCurlyCheck",
+            "NeedBracesCheck",
+            "MultipleVariableDeclarationsCheck",
+            "RightCurly",
+            "LocalVariableNameCheck",
+            "WhitespaceAroundCheck",
+            "AvoidStarImportCheck",
+            "OneStatementPerLineCheck",
+            "EmptyLineSeparatorCheck",
+            "OperatorWrapCheck"
+        ]
+    },
+    {
+        "user_id": "3e1f2f55678264ddbee1a0a980c16ee0507df3ec5b36816b0c8f3d16c3edcbc2",
+        "Style_feature": [
+            "EmptyBlockCheck",
+            "OneTopLevelClassCheck",
+            "LineLengthCheck",
+            "MultipleVariableDeclarationsCheck",
+            "LeftCurlyCheck",
+            "NeedBracesCheck",
+            "FallThroughCheck",
+            "RightCurly",
+            "LocalVariableNameCheck",
+            "WhitespaceAroundCheck",
+            "AvoidStarImportCheck",
+            "OneStatementPerLineCheck",
+            "EmptyLineSeparatorCheck",
+            "OperatorWrapCheck"
+        ]
+    },
+    {
+        "user_id": "80d2556fb9d083b4fd894fad713d0dc3bbd94d4a001372fe9e96bb035b996c7a",
+        "Style_feature": [
+            "ModifierOrderCheck",
+            "OneTopLevelClassCheck",
+            "MemberNameCheck",
+            "LineLengthCheck",
+            "MultipleVariableDeclarationsCheck",
+            "LeftCurlyCheck",
+            "NeedBracesCheck",
+            "LocalVariableNameCheck",
+            "RightCurly",
+            "WhitespaceAroundCheck",
+            "EmptyLineSeparatorCheck",
+            "OperatorWrapCheck"
+        ]
+    },
+    {
+        "user_id": "05c3cd51e60017db5c8f0b048a6ee5ac246ab9d5699c05c2fd36bf72093ab047",
+        "Style_feature": [
+            "OneTopLevelClassCheck",
+            "MemberNameCheck",
+            "LineLengthCheck",
+            "LeftCurlyCheck",
+            "NeedBracesCheck",
+            "MultipleVariableDeclarationsCheck",
+            "TypeNameCheck",
+            "MissingSwitchDefaultCheck",
+            "RightCurly",
+            "WhitespaceAroundCheck",
+            "AvoidStarImportCheck",
+            "OneStatementPerLineCheck",
+            "EmptyLineSeparatorCheck",
+            "GenericWhitespaceCheck",
+            "OperatorWrapCheck"
+        ]
+    },
+    {
+        "user_id": "87817372b6841501e5e5c6524b89319e7ba45d7e63013aa124a627ddf578723e",
+        "Style_feature": [
+            "OneTopLevelClassCheck",
+            "MultipleVariableDeclarationsCheck",
+            "NeedBracesCheck",
+            "LeftCurlyCheck",
+            "LocalVariableNameCheck",
+            "RightCurly",
+            "WhitespaceAroundCheck",
+            "AvoidStarImportCheck",
+            "EmptyLineSeparatorCheck",
+            "OperatorWrapCheck"
+        ]
+    },
+    {
+        "user_id": "51d756405201eff4f1ef9dc51cb9dfbc58a252b379ffc0eedb4951256d66e4e3",
+        "Style_feature": [
+            "EmptyBlockCheck",
+            "ParameterNameCheck",
+            "OneTopLevelClassCheck",
+            "MethodNameCheck",
+            "MemberNameCheck",
+            "LineLengthCheck",
+            "MultipleVariableDeclarationsCheck",
+            "LeftCurlyCheck",
+            "MissingSwitchDefaultCheck",
+            "NeedBracesCheck",
+            "RightCurly",
+            "LocalVariableNameCheck",
+            "WhitespaceAroundCheck",
+            "AvoidStarImportCheck",
+            "OneStatementPerLineCheck",
+            "EmptyLineSeparatorCheck",
+            "OperatorWrapCheck"
+        ]
+    },
+    {
+        "user_id": "8204d734356d831232cfaab9910b3aaf4e17a57e59ddb2a29dacf4b21a7ca408",
+        "Style_feature": [
+            "ParameterNameCheck",
+            "OneTopLevelClassCheck",
+            "MethodNameCheck",
+            "MemberNameCheck",
+            "LineLengthCheck",
+            "MultipleVariableDeclarationsCheck",
+            "NeedBracesCheck",
+            "LeftCurlyCheck",
+            "MissingSwitchDefaultCheck",
+            "TypeNameCheck",
+            "LocalVariableNameCheck",
+            "RightCurly",
+            "WhitespaceAroundCheck",
+            "AvoidStarImportCheck",
+            "OneStatementPerLineCheck",
+            "EmptyLineSeparatorCheck",
+            "GenericWhitespaceCheck",
+            "OperatorWrapCheck"
+        ]
+    },
+    {
+        "user_id": "60a28857d3cfe54f18ad279faf799b10c17bca3c7d84d3288b21b05f7301258e",
+        "Style_feature": [
+            "EmptyBlockCheck",
+            "OneTopLevelClassCheck",
+            "MethodNameCheck",
+            "MemberNameCheck",
+            "LineLengthCheck",
+            "LeftCurlyCheck",
+            "NeedBracesCheck",
+            "MultipleVariableDeclarationsCheck",
+            "MissingSwitchDefaultCheck",
+            "TypeNameCheck",
+            "RightCurly",
+            "LocalVariableNameCheck",
+            "WhitespaceAroundCheck",
+            "AvoidStarImportCheck",
+            "OneStatementPerLineCheck",
+            "EmptyLineSeparatorCheck",
+            "GenericWhitespaceCheck",
+            "OperatorWrapCheck"
+        ]
+    },
+    {
+        "user_id": "3206bb58dda8c552fc372555fc405f471a1bc56fbe0fe5f79ba6dccc845defb8",
+        "Style_feature": [
+            "LeftCurlyCheck",
+            "NeedBracesCheck",
+            "WhitespaceAroundCheck",
+            "AvoidStarImportCheck",
+            "OneTopLevelClassCheck",
+            "MethodNameCheck",
+            "MemberNameCheck",
+            "EmptyLineSeparatorCheck",
+            "GenericWhitespaceCheck",
+            "ModifierOrderCheck",
+            "LineLengthCheck",
+            "MissingSwitchDefaultCheck",
+            "OneStatementPerLineCheck",
+            "ParameterNameCheck",
+            "MultipleVariableDeclarationsCheck",
+            "TypeNameCheck",
+            "LocalVariableNameCheck",
+            "RightCurly",
+            "OperatorWrapCheck"
+        ]
+    },
+    {
+        "user_id": "76fe259aae4db6e67e148b95136abc64702d274ea1df24db077e4b2ecb5bc04a",
+        "Style_feature": [
+            "LeftCurlyCheck",
+            "NeedBracesCheck",
+            "WhitespaceAroundCheck",
+            "AvoidStarImportCheck",
+            "OneTopLevelClassCheck",
+            "MethodNameCheck",
+            "MemberNameCheck",
+            "EmptyLineSeparatorCheck",
+            "GenericWhitespaceCheck",
+            "ModifierOrderCheck",
+            "LineLengthCheck",
+            "MissingSwitchDefaultCheck",
+            "OneStatementPerLineCheck",
+            "ParameterNameCheck",
+            "EmptyBlockCheck",
+            "MultipleVariableDeclarationsCheck",
+            "TypeNameCheck",
+            "RightCurly",
+            "LocalVariableNameCheck",
+            "OperatorWrapCheck"
+        ]
+    },
+    {
+        "user_id": "501560f3eddad620d1176ad27620e78449390a2a1fdc85fa6ba34873ceb1e286",
+        "Style_feature": [
+            "LeftCurlyCheck",
+            "NeedBracesCheck",
+            "WhitespaceAroundCheck",
+            "AvoidStarImportCheck",
+            "OneTopLevelClassCheck",
+            "MethodNameCheck",
+            "MemberNameCheck",
+            "EmptyLineSeparatorCheck",
+            "GenericWhitespaceCheck",
+            "ModifierOrderCheck",
+            "LineLengthCheck",
+            "MissingSwitchDefaultCheck",
+            "OneStatementPerLineCheck",
+            "ParameterNameCheck",
+            "MultipleVariableDeclarationsCheck",
+            "FallThroughCheck",
+            "RightCurly",
+            "LocalVariableNameCheck",
+            "OperatorWrapCheck"
+        ]
+    },
+    {
+        "user_id": "7103cb343a31c9a7c29014e7a9512a81047123301a6dd28c631d23671d34e450",
+        "Style_feature": [
+            "ParameterNameCheck",
+            "OneTopLevelClassCheck",
+            "MethodNameCheck",
+            "MemberNameCheck",
+            "LineLengthCheck",
+            "MultipleVariableDeclarationsCheck",
+            "LeftCurlyCheck",
+            "NeedBracesCheck",
+            "TypeNameCheck",
+            "MissingSwitchDefaultCheck",
+            "RightCurly",
+            "LocalVariableNameCheck",
+            "WhitespaceAroundCheck",
+            "AvoidStarImportCheck",
+            "EmptyLineSeparatorCheck",
+            "GenericWhitespaceCheck",
+            "OperatorWrapCheck"
+        ]
+    },
+    {
+        "user_id": "ced0774d4980be3b53706d6514b137eb6ccd4c786ea4434a6857c12d58228578",
+        "Style_feature": [
+            "LeftCurlyCheck",
+            "NeedBracesCheck",
+            "WhitespaceAroundCheck",
+            "AvoidStarImportCheck",
+            "OneTopLevelClassCheck",
+            "MethodNameCheck",
+            "MemberNameCheck",
+            "EmptyLineSeparatorCheck",
+            "GenericWhitespaceCheck",
+            "ModifierOrderCheck",
+            "LineLengthCheck",
+            "MissingSwitchDefaultCheck",
+            "OneStatementPerLineCheck",
+            "ParameterNameCheck",
+            "MultipleVariableDeclarationsCheck",
+            "TypeNameCheck",
+            "RightCurly",
+            "LocalVariableNameCheck",
+            "OperatorWrapCheck"
+        ]
+    },
+    {
+        "user_id": "3de9071e891e0e21ee5045e4a723f59fbe0d99bc5fb9a88a6308565bf977dbf4",
+        "Style_feature": [
+            "ParameterNameCheck",
+            "OneTopLevelClassCheck",
+            "MethodNameCheck",
+            "MemberNameCheck",
+            "LineLengthCheck",
+            "MultipleVariableDeclarationsCheck",
+            "NeedBracesCheck",
+            "LeftCurlyCheck",
+            "MissingSwitchDefaultCheck",
+            "TypeNameCheck",
+            "RightCurly",
+            "LocalVariableNameCheck",
+            "WhitespaceAroundCheck",
+            "AvoidStarImportCheck",
+            "OneStatementPerLineCheck",
+            "EmptyLineSeparatorCheck",
+            "GenericWhitespaceCheck",
+            "OperatorWrapCheck"
+        ]
+    },
+    {
+        "user_id": "0c1715ed534d263fc065fdd02145c20752ce940eb242530600119af39285b193",
+        "Style_feature": [
+            "ParameterNameCheck",
+            "OneTopLevelClassCheck",
+            "MethodNameCheck",
+            "MemberNameCheck",
+            "LineLengthCheck",
+            "MultipleVariableDeclarationsCheck",
+            "LeftCurlyCheck",
+            "NeedBracesCheck",
+            "MissingSwitchDefaultCheck",
+            "TypeNameCheck",
+            "RightCurly",
+            "LocalVariableNameCheck",
+            "WhitespaceAroundCheck",
+            "AvoidStarImportCheck",
+            "OneStatementPerLineCheck",
+            "EmptyLineSeparatorCheck",
+            "GenericWhitespaceCheck",
+            "OperatorWrapCheck"
+        ]
+    },
+    {
+        "user_id": "bc393605090ecd8823d99fa88623bb32229eda0f86ba7b8c2473150ac1684ae5",
+        "Style_feature": [
+            "ParameterNameCheck",
+            "OneTopLevelClassCheck",
+            "MethodNameCheck",
+            "MemberNameCheck",
+            "LineLengthCheck",
+            "MultipleVariableDeclarationsCheck",
+            "NeedBracesCheck",
+            "LeftCurlyCheck",
+            "TypeNameCheck",
+            "MissingSwitchDefaultCheck",
+            "RightCurly",
+            "LocalVariableNameCheck",
+            "WhitespaceAroundCheck",
+            "AvoidStarImportCheck",
+            "OneStatementPerLineCheck",
+            "EmptyLineSeparatorCheck",
+            "GenericWhitespaceCheck",
+            "OperatorWrapCheck"
+        ]
+    },
+    {
+        "user_id": "798f071be683ce53edd99ad1c410208dd79483bf836d208e40a058228a60fe1c",
+        "Style_feature": [
+            "EmptyBlockCheck",
+            "OneTopLevelClassCheck",
+            "MemberNameCheck",
+            "LineLengthCheck",
+            "LeftCurlyCheck",
+            "NeedBracesCheck",
+            "MultipleVariableDeclarationsCheck",
+            "MissingSwitchDefaultCheck",
+            "RightCurly",
+            "LocalVariableNameCheck",
+            "WhitespaceAroundCheck",
+            "AvoidStarImportCheck",
+            "OneStatementPerLineCheck",
+            "EmptyLineSeparatorCheck",
+            "OperatorWrapCheck"
+        ]
+    },
+    {
+        "user_id": "443c6f8a11eafccfca9161eb19f9c10f7a92e5e0e3ed45eb7b2644b74e18d5bd",
+        "Style_feature": [
+            "ParameterNameCheck",
+            "OneTopLevelClassCheck",
+            "MethodNameCheck",
+            "MemberNameCheck",
+            "LineLengthCheck",
+            "LeftCurlyCheck",
+            "NeedBracesCheck",
+            "MultipleVariableDeclarationsCheck",
+            "TypeNameCheck",
+            "MissingSwitchDefaultCheck",
+            "RightCurly",
+            "LocalVariableNameCheck",
+            "WhitespaceAroundCheck",
+            "AvoidStarImportCheck",
+            "OneStatementPerLineCheck",
+            "EmptyLineSeparatorCheck",
+            "GenericWhitespaceCheck",
+            "OperatorWrapCheck"
+        ]
+    }
+]

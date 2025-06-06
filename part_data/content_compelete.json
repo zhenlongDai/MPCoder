@@ -1,0 +1,7 @@
+[
+    {
+        "id": "935883263201914880",
+        "content": "xxxx........",
+        "english_content": "Count the number of occurrences of each character in a line of strings. Then sort them in ascending order of characters and output the number of characters and the number of occurrences of each character.\n\n### Input format:\nA line of strings containing spaces, letters, etc.\n\n### Output format\nThe first line outputs: how many characters are there\nNext output: `character = number of occurrences`. Note: when outputting, sort in ascending order of characters.\n**Note:** There are spaces on both sides of the equal sign.\n\n### Input sample:\n\n```in\nabcde* ab123. Test!!\n```\n\n### Output sample:\n\n```out\n15\n  = 2\n! = 2\n* = 1\n. = 1\n1 = 1\n2 = 1\n3 = 1\nT = 1\na = 2\nb = 2\nc = 1\nd = 1\ne = 2\ns = 1\nt = 1\n```"
+    }
+]
